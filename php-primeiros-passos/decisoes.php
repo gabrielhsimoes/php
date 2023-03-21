@@ -20,3 +20,5 @@ if ($idade >= 18){ //$nome == 'Gabriel'
 
 echo PHP_EOL;
 echo "Adeus!";
+
+
